@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoeythewhitelioness
 - 👀 I’m interested in ... gaming, coding
 - 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Game Coding, Unity Engine
 - 📫 How to reach me ...
 
 <!---
