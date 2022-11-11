@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoeybaker
-- 👀 I’m interested in ... Cyber Security, gaming, coding
+- 👀 I’m interested in ... Software Development, gaming, coding
 - 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ... Game Development, Unity Engine, Cyber Security
+- 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... 
 
 <!---
