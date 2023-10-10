@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoeybaker
-- 👀 I’m interested in ... .Net Framework, Javascript, C#
+- 👀 I’m interested in ... Ai, .Net Framework, Javascript, C#
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... Software Development
 - 📫 How to reach me ... 
