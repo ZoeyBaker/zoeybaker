@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoeybaker
 - 👀 I’m interested in ... Ai, .Net Framework, Javascript, C#
 - 🌱 I’m currently learning ... C#, React.js, Wordpress for programmers
-- 💞️ I’m looking to collaborate on ... Software Development
+- 💞️ I’m looking to collaborate on ... Web Development, Game Development, Ai Programming
 - 📫 How to reach me ... 
 
 <!---
